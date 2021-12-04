@@ -1,5 +1,5 @@
-# Joke Generator API -Async Await
-Joke Generator
+# Joke Generator API - Async Await
+Generates jokes using the icanhazdadjoke.com API.
 
 <p>
   <a href="https://jokes-generator-api.netlify.app/"
