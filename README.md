@@ -5,10 +5,6 @@ Generates jokes using the icanhazdadjoke.com API.
 
 Welcome to the ultimate repository of laughter and cheer! This app is built to keep you entertained with the funniest jokes around. Whether you're looking for a pick-me-up during a long workday, or just want to share a laugh with friends, we've got you covered.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Acknowledgments
 
 * A special thank you to all the comedians who've made us laugh over the years
